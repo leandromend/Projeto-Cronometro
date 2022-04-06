@@ -1,5 +1,5 @@
 # Projeto-Cronometro  
-Projet feito em equipe com Rian dos  Passos  .  
+Projeto feito em equipe com Rian dos  Passos  .  
 ###  Objetivo  
 Cronômetro feito com HTML5  e JAVASCRIPT
 
